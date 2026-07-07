@@ -6,7 +6,7 @@ These days learning with AI — pair-programming, reviewing its drafts, asking w
 
 <br/>
 
-### What I work with
+### Stack
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=white)
