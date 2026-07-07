@@ -1,21 +1,12 @@
-# Hi, I'm Haedong 👋
+# Haedong
 
-**Frontend developer who believes in small, steady improvements.**
-
-I'm not chasing overnight breakthroughs.
-I'd rather ship something a little better than yesterday — a cleaner component, a faster render, one less line of CSS.
-Small commits, compounded daily.
-
-Once, just to see if I could, I flew a drone from a browser → [VANILLA SKY](https://github.com/sunghaedong/VANILLA-SKY-CLIENT) 🛸
-It started as a tiny experiment too.
+**Frontend developer. I like small, steady improvements.**
 
 <br/>
 
 ### These days
 
-- Getting 1% better at **React** rendering patterns — memo less, structure more
-- Going deeper into **Next.js** — server components, caching, the boring-but-important parts
-- Trying to write **Tailwind** my future self won't hate
+Learning with AI — pair-programming, reviewing its drafts, asking why a lot.
 
 <br/>
 
@@ -32,7 +23,6 @@ It started as a tiny experiment too.
 
 ### Say hello
 
-<!-- Replace with your own links; delete any you don't use -->
 [Email](mailto:haedong.sung@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sunghaedong)
 
 <br/>
