@@ -1,16 +1,12 @@
 # Haedong
 
 **Frontend developer. I like small, steady improvements.**
+**These days**
+**Learning with AI — pair-programming, reviewing its drafts, asking why a lot.**
 
 <br/>
 
-### These days
-
-Learning with AI — pair-programming, reviewing its drafts, asking why a lot.
-
-<br/>
-
-### Tools I reach for
+### What I work with
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-20232a?style=flat-square&logo=nextdotjs&logoColor=white)
