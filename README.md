@@ -33,7 +33,7 @@ It started as a tiny experiment too.
 ### Say hello
 
 <!-- Replace with your own links; delete any you don't use -->
-[Velog](https://velog.io/@your-id) · [Email](mailto:your-email@gmail.com)
+[Email](mailto:haedong.sung@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sunghaedong)
 
 <br/>
 
