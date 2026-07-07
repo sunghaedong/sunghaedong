@@ -1,7 +1,9 @@
 # Haedong
 
 **Frontend developer. I like small, steady improvements.**
+<br />
 **These days**
+<br />
 **Learning with AI — pair-programming, reviewing its drafts, asking why a lot.**
 
 <br/>
