@@ -30,12 +30,6 @@ It started as a tiny experiment too.
 
 <br/>
 
-### Progress, quietly
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sunghaedong&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
-
-<br/>
-
 ### Say hello
 
 <!-- Replace with your own links; delete any you don't use -->
