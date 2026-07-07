@@ -1,8 +1,10 @@
 # Haedong
 
-**Frontend developer** I like small, steady improvements.
-<br />
-These days learning with AI — pair-programming, reviewing its drafts, asking why a lot.
+**Frontend developer.** I like small, steady improvements.
+
+<br/>
+
+These days I'm learning with AI — pair-programming, reviewing its drafts, asking why a lot.
 
 <br/>
 
@@ -14,6 +16,12 @@ These days learning with AI — pair-programming, reviewing its drafts, asking w
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232a?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=F05032)
+
+<br/>
+
+### Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sunghaedong&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
 
 <br/>
 
