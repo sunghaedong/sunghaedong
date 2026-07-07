@@ -2,11 +2,7 @@
 
 **Frontend developer.** I like small, steady improvements.
 
-<br/>
-
 These days I'm learning with AI — pair-programming, reviewing its drafts, asking why a lot.
-
-<br/>
 
 ### Stack
 
@@ -17,18 +13,8 @@ These days I'm learning with AI — pair-programming, reviewing its drafts, aski
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232a?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=F05032)
 
-<br/>
-
-### Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sunghaedong&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
-
-<br/>
-
 ### Say hello
 
 [Email](mailto:haedong.sung@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sunghaedong)
-
-<br/>
 
 <sub>Slow is smooth, smooth is fast. 🌿</sub>
